@@ -1,0 +1,1 @@
+Файл для группы Markdown на Github
