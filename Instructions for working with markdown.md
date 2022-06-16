@@ -41,6 +41,10 @@
 > Добавим еще одну картинку
 ![Markdown](https://miro.medium.com/max/900/1*sSi5LWkfxZHNVuDLs2j2ug.png)
 
+## Переходи на темную сторону
+
+![You don't know the power of the dark side](Darth_Vader_in_The_Empire_Strikes_Back.jpg)
+
 > * В общем Markdown это довольно интересно, но пока мало навыка и непосредственных задач для его использования))
 
 ## Попробуем сделать таблицу
